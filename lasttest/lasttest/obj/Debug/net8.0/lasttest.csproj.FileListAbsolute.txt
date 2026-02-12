@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\bin\Debug\net8.0\lasttest.exe
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\bin\Debug\net8.0\lasttest.deps.json
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\bin\Debug\net8.0\lasttest.runtimeconfig.json
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\bin\Debug\net8.0\lasttest.dll
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\bin\Debug\net8.0\lasttest.pdb
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.AssemblyInfo.cs
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.sourcelink.json
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.dll
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\refint\lasttest.dll
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.pdb
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\lasttest.genruntimeconfig.cache
+C:\Users\student\Downloads\Cテスト\2027last\lasttest\lasttest\obj\Debug\net8.0\ref\lasttest.dll
